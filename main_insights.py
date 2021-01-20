@@ -5,12 +5,12 @@ import os
 
 # THIS IS THE PART YOU ONLY NEED TO ENTER INFORMATION IN
 driver = 0
-username = "inkyheart@earthlink.net"    # Username of account (Instagram or Facebook Username)
-password = "M@cb1g2k2ohmy"              # Password of account (Instagram or Facebook Password)
+username = ""    # Username of account (Instagram or Facebook Username)
+password = ""              # Password of account (Instagram or Facebook Password)
 two_fact_code = None                    # Enter Backup Code of account if 2Fact for Instagram, set to NONE if otherwise
 post_count = 30                         # Number of posts you want the insights on
 mode = "Photos"                         # Enter what type of posts you want to get Insights on
-account = "sketchbookskool"             # Enter which account (if any) that you want to specify
+account = ""             # Enter which account (if any) that you want to specify
 
 # For mode, choose the following: Photos, Videos
 
